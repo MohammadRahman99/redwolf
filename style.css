@@ -1,0 +1,44 @@
+body {
+    font-family: 'Oswald',
+        sans-serif;
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+
+.headingprt {
+    text-align: center;
+    color: rgb(34, 37, 37);
+}
+
+h2 {
+    text-align: center;
+    background-image: url(Benelli_logo_motorcycle_company_1-700x332-removebg-preview.png);
+    background-position: right;
+}
+
+
+.width {
+    width: 90%;
+}
+
+a {
+    font-style: normal;
+    text-decoration: none;
+}
+
+.company {
+    display: flex;
+    padding: 100px;
+}
+
+.heading {
+    background-image: linear-gradient(rgb(196, 231, 196), gray);
+    color: black;
+}
+
+.shddow {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+
+}
